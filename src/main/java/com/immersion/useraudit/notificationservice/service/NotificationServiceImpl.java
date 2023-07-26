@@ -1,4 +1,7 @@
 package com.immersion.useraudit.notificationservice.service;
 
-public interface notificationService {
+public class NotificationServiceImpl {
+
+
+
 }
